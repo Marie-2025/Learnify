@@ -1,0 +1,25 @@
+{
+  "userId": "john_doe_001",
+  "enrolledCourses": {
+    "javascript_course": {
+      "paymentId": "id_from_user.json",
+      "courseTitle": "JavaScript Course",
+      "enrolledOn": "2025-04-08",
+      "progress": {
+        "lessonsCompleted": [],
+        "percentage": 0
+      },
+      "certificateEarned": false
+    },
+    "python_course": {
+      "paymentId": "id_from_user.json",
+      "courseTitle": "Python for Beginners",
+      "enrolledOn": "2025-04-01",
+      "progress": {
+        "lessonsCompleted": ["lesson_1", "lesson_2"],
+        "percentage": 20
+      },
+      "certificateEarned": false
+    }
+  }
+}

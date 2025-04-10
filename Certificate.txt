@@ -1,0 +1,14 @@
+"javascript_course": {
+  "courseTitle": "JavaScript Course",
+  "enrolledOn": "2025-04-08",
+  "progress": {
+    "lessonsCompleted": ["lesson_1", "lesson_2", "..."],
+    "percentage": 100
+  },
+  "certificate": {
+    "issued": true,
+    "certificateId": "CERT-JS-00123",
+    "issuedOn": "2025-05-01",
+    "downloadLink": "/certificates/CERT-JS-00123.pdf"
+  }
+}

@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.givendarian2025.Learnify"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c62a4dbe-087d-4bf0-9df5-d450549925ba"
+      }
+    },
+    "owner": "givendarian2025"
   }
 }

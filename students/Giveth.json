@@ -1,0 +1,61 @@
+{
+  "fullname": "Kyateka Given Ethan ",
+  "username": "Giveth",
+  "email": "givendarian@gmail.com",
+  "password": "2025",
+  "gender": "Male",
+  "dateOfBirth": "2002-09-21",
+  "role": "Student",
+  "enrolledCourses": {
+    "python_full_course": {
+      "paymentId": "231a099f-fbd9-4fa2-8bb2-81087d691640",
+      "courseTitle": "Python Full Course",
+      "enrolledOn": "2025-04-10",
+      "progress": {
+        "lessonsCompleted": [],
+        "quizzesCompleted": [],
+        "percentage": 0
+      },
+      "certificateEarned": false,
+      "category": "Programming",
+      "imageURL": "https://i.pinimg.com/474x/90/95/9e/90959ebebaaefe84be4a9182bac96cc2.jpg",
+      "instructorName": "Giveth Motive",
+      "lessons": [
+        {
+          "lessonId": "lesson_1",
+          "title": "Variables and Datatypes",
+          "embedLink": "https://www.youtube.com/embed/t2_Q2BRzeEE?si=6xyW9tj8sJjEnzHW"
+        },
+        {
+          "lessonId": "lesson_2",
+          "title": "Strings & Conditional Statements",
+          "embedLink": "https://www.youtube.com/embed/lIId8IDP6TU?si=VF6ovIPuotSTu9_q"
+        }
+      ],
+      "quiz": [
+        {
+          "quizId": "quiz_1",
+          "question": "What is a variable in Python?",
+          "options": [
+            " A fixed value",
+            "A name that stores data",
+            "A function",
+            "A data type"
+          ],
+          "correctAnswer": "A name that stores data"
+        },
+        {
+          "quizId": "quiz_2",
+          "question": "Which of the following is a valid variable name in Python?",
+          "options": [
+            "2myVariable",
+            "my-variable",
+            "myVariable",
+            "my Variable"
+          ],
+          "correctAnswer": "myVariable"
+        }
+      ]
+    }
+  }
+}
